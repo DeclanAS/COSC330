@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab02ex04</string>
+    <string name="calories">Calories:</string>
+    <string name="ostrich_patty">Ostrich Patty</string>
+    <string name="lamb_patty">Lamb Patty</string>
+    <string name="beef_patty">Beef Patty</string>
+    <string name="prosciutto">Prosciutto</string>
+    <string name="caviar_up_to_one_teaspoon">Caviar up to one teaspoon</string>
+    <string name="top_image">Top_Image</string>
+    <string name="bottom_image">Bottom_image</string>
+    <string name="asiago_cheese">Asiago Cheese</string>
+    <string name="creme_fraiche">Creme Fraiche</string>
+</resources>

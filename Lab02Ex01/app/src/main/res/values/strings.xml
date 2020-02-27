@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab02ex01</string>
+    <string name="give_cookie">Give Cookie</string>
+    <string name="todo">TODO</string>
+    <string name="please_give_cookie">Please give cookie.</string>
+    <string name="baby_yoda_i_m_hungry">Baby Yoda: I\'m Hungry</string>
+</resources>

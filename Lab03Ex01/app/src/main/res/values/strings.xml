@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab02ex01</string>
+    <string name="activity">Activity:</string>
+    <string name="q1_callbacks_created_on_launch_are_oncreate_and_onstart">Q1: Callbacks created on launch are: onCreate(), and onStart().</string>
+    <string name="q2_when_the_home_button_is_pressed_the_callbacks_onpause_and_onstop_are_called">Q2: When the home button is pressed, the callbacks: onPause() and onStop() are called.</string>
+    <string name="q3_when_resuming_onrestart_and_on_create_are_called">Q3: When resuming, onRestart() and on Create() are called.</string>
+    <string name="q4_when_rotated_the_app_calls_onpause_onstop_ondestroy_oncreate_onstart_and_onresume_in_that_order">Q4: When rotated, the app calls onPause(), onStop(), onDestroy(), onCreate(), onStart(), and onResume() in that order.</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab02ex03</string>
+    <string name="weight_of_the_package">Weight of the package</string>
+    <string name="total_shipping_cost">Total Shipping Cost:</string>
+    <string name="added_cost">Added Cost:</string>
+    <string name="base_cost">Base Cost:</string>
+    <string name="in_ounces">(in ounces)</string>
+    <string name="money1">$3.00</string>
+    <string name="money2">$</string>
+    <string name="money3">$</string>
+</resources>
